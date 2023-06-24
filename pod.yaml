@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: monishvicky/k8s2206:latest
+          image: monishvicky/k8s2406:latest
           imagePullPolicy: Always
